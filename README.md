@@ -1,1 +1,1 @@
-# Freight-Management-System
+ADMIN: username: admin password: password            EMPLOYEE: username: employee password: password                                                                       
